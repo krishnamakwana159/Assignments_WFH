@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\ClrProjectLab\ClrProjectLab\bin\Debug\ClrProjectLab.dacpac
+C:\Users\Dell\source\repos\ClrProjectLab\ClrProjectLab\bin\Debug\ClrProjectLab.dll
+C:\Users\Dell\source\repos\ClrProjectLab\ClrProjectLab\bin\Debug\ClrProjectLab.pdb
+C:\Users\Dell\source\repos\ClrProjectLab\ClrProjectLab\obj\Debug\ClrProjectLab.sqlprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ClrProjectLab\ClrProjectLab\obj\Debug\ClrProjectLab.dll
+C:\Users\Dell\source\repos\ClrProjectLab\ClrProjectLab\obj\Debug\ClrProjectLab.pdb
